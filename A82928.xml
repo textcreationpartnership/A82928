@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An order of Parliament, with the consent of His Highness the Lord Protector, for a day of publike thanksgiving within the cities of London and Westminster the late lines of communication, and weekly bills of mortality, on Wednesday the third of June next; for the great success God hath been pleased to give the navy of this Commonwealth under the command of General Blake against the Spaniard. Together with a narrative of the same success, as it was communicated in a letter from the said General. Thursday the 28th of May, 1657. Ordered by the Parliament, that this narrative be printed and published, with the order of the House for the day of thanksgiving. Hen: Scobell, Clerk of the Parliament.</title>
+            <title>Proceedings. 1657-05-28</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82928</idno>
+            <idno type="STC">Wing E1694A</idno>
+            <idno type="STC">ESTC R229820</idno>
+            <idno type="EEBO-CITATION">99896173</idno>
+            <idno type="PROQUEST">99896173</idno>
+            <idno type="VID">153933</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153933)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2390:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An order of Parliament, with the consent of His Highness the Lord Protector, for a day of publike thanksgiving within the cities of London and Westminster the late lines of communication, and weekly bills of mortality, on Wednesday the third of June next; for the great success God hath been pleased to give the navy of this Commonwealth under the command of General Blake against the Spaniard. Together with a narrative of the same success, as it was communicated in a letter from the said General. Thursday the 28th of May, 1657. Ordered by the Parliament, that this narrative be printed and published, with the order of the House for the day of thanksgiving. Hen: Scobell, Clerk of the Parliament.</title>
+                  <title>Proceedings. 1657-05-28</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Henry Hills and Iohn Field, printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657 --  Early works to 1800.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153933:1"/>
+            <p>AN ORDER OF PARLIAMENT, With the Conſent of His Highneſs the Lord Protector, For a Day of PUBLIKE THANKSGIVING WITHIN The Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> the late Lines of Communication, and Weekly Bills of Mortality, on <hi>Wedneſday</hi> the third of <hi>June</hi> next; For the great Succeſs God hath been pleaſed to give the Navy of this Commonwealth under the Command of General <hi>Blake</hi> againſt the <hi>Spaniard.</hi>
+            </p>
+            <p>Together with a NARRATIVE Of the ſame Succeſs, as it was Communicated in a <hi>Letter</hi> from the ſaid GENERAL.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>Thurſday the 28<hi rend="sup">th</hi> of <hi>May,</hi> 1657.</p>
+            <p>ORdered by the Parliament, That this Narrative be Printed and Publiſhed, with the Order of the Houſe for the Day of Thankſgiving.</p>
+            <p>
+               <hi>Hen: Scobell, Clerk of the Parliament.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills</hi> and <hi>Iohn Field,</hi> Printers to His Highneſs. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="decree">
+            <pb facs="tcp:153933:2"/>
+            <pb n="1" facs="tcp:153933:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Thurſday the</hi> 28 <hi>of</hi> May, 1657.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That Wedneſday next be ſet apart for a Day of Publique Thankſgiving, within the Ci<g ref="char:EOLhyphen"/>ties of <hi>London</hi> and <hi>Weſtminſter,</hi> and the late Lines of Communication, and Weekly Bills of Mortality, for the marvellous Goodneſs of God to this Nation, in Preſerving the Fleet of this Commonwealth in their late Action at <hi>Sancta Cruz,</hi> in the Iſland of <hi>Tene<g ref="char:EOLhyphen"/>riff,</hi> under General <hi>Blake;</hi> and giving them great Succeſs againſt the Ships of the King of <hi>Spain.</hi>
+            </p>
+            <closer>
+               <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+         <div type="narrative">
+            <pb n="2" facs="tcp:153933:3"/>
+            <head>A NARRATIVE Of the Action at SANCTA CRUZ.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter taking in the Supply of Vi<g ref="char:EOLhyphen"/>ctuals that was brought us the lat<g ref="char:EOLhyphen"/>ter end of <hi>March,</hi> we ſpent two or three days before the Town of <hi>Ca<g ref="char:EOLhyphen"/>diz,</hi> and finding the Enemy there in no great forwardneſs to come forth with a Fleet as was expected, The General on the Thirteenth of <hi>April,</hi> One thouſand ſix hundred fifty ſeven, called the Commanders toge<g ref="char:EOLhyphen"/>ther, and communicated his thoughts to go for <hi>Sancta Cruz,</hi> on the Iſland of <hi>Teneriff,</hi> laying be<g ref="char:EOLhyphen"/>fore them the reaſons that induced him to it, which they all approved of, and a favorable Gale juſt at the time preſented to carry us thither. On the Eigh<g ref="char:EOLhyphen"/>teenth following in the evening we diſcovered Land, ſuppoſed to be <hi>Point Negro,</hi> but being thick-and hazy, could not certainly make it till Noon the next day, whereby the Enemy had longer notice of our being on the Coaſt then we deſigned he ſhould, before we came to Action.</p>
+            <pb n="3" facs="tcp:153933:3"/>
+            <p>On <hi>Munday</hi> the twentieth of <hi>April</hi> one thouſand ſix hundred fifty ſeven, we were by break of day fair in the <hi>Offin</hi> of <hi>Sancta Cruz,</hi> and, as ſoon as 'twas light, perceived by a Signal from one of our Friggots a head, that the <hi>West-India</hi> Fleet were in the Bay. Whereup<g ref="char:EOLhyphen"/>on, after a ſhort Conference how to order the Attempt, and earneſt ſeeking to the Lord for his preſence, we fell in amongſt them, and by eight of the clock were all at an Anchor, ſome under the Caſtle and Forts, and others by the Ships ſides, as we could birth our ſelves to keep clear one of another, and beſt annoy the Enemy.</p>
+            <p>They had there five or ſix Galleons (whereof were Admiral, Vice-Admiral, and Rere-Admiral, with their Standart and Flags aloft) and other conſiderable Ships making up the number of ſixteen, ſome having Goods brought from the <hi>Indies</hi> ſtill on board them, others had taken in Goods and Proviſions to carry back again: Moſt of them were furniſhed with Braſs Ord<g ref="char:EOLhyphen"/>nance, and (as we have been informed ſince) had their full companies of Seamen and Souldiers kept continu<g ref="char:EOLhyphen"/>ally on board them, from their firſt coming thither, which was about the beginning of <hi>February</hi> laſt, their General himſelf in all the time lying but one night out of his Ship: they were moared cloſe along the Shore, which lies in the manner of a Semicircle, commanded, as far as the Ships rid, by the Caſtle, and ſurrounded beſides with ſix or ſeven Forts, with almoſt a continued Line for Muſqueteers and great Shot, as the Ground be<g ref="char:EOLhyphen"/>tween admitted; And we were forced to come ſo near to do our work, that many of the Men we have ſlain and wounded, were ſhot by the Muſqueteers from the Shore; Notwithſtanding it pleaſed God that in four hours time their Men were beaten out, and all the Ships put aſhore, except the Admiral, and Vice-Admiral, who made the moſt conſiderable reſiſtance. About two
+<pb n="4" facs="tcp:153933:4"/>of the clock the Vice-Admiral was ſet on fire, and the Admiral, by ſome happy Shot, or other accident, ſud<g ref="char:EOLhyphen"/>denly blown up; having (as we perceived juſt before) many Men on board her; by the evening all the reſt were fired, onely two that ſunk down to rights, and had little but their Maſts appearing above water.</p>
+            <p>It remained to compleat this Mercy, that our own Ships ſhould come off well, wherein the greateſt haz<g ref="char:EOLhyphen"/>zard and difficulty lay; for ſome riding near into the Shore, and being ſorely maimed did require to be warped off, others when we came to weigh, drove with the winde all the while blowing right into the Bay, and one of our beſt Frigots ſtrook: The Enemy in the mean time ſupplied freſh men into his Forts for thoſe we had killed and beaten out in the heat of the Action, and from them and the Caſtle continued plying upon us, till about ſeven of the clock at night, every Ship and Veſſel belonging to our Fleet, were by the good hand of God got ſafe out of command.</p>
+            <p>In this ſervice we had not above fifty ſlain outright, and one hundred and twenty wounded, and the damage to our Ships was ſuch as in two days time we indiffe<g ref="char:EOLhyphen"/>rently vvell repaired for preſent ſecurity: Which vve had no ſooner done, but the Winde veered to the South-Weſt (which is rare among thoſe Iſlands) and laſted juſt to bring us to our former Station neer <hi>Cape Maries,</hi> where we arrived the ſecond of <hi>May</hi> follovving: For vvhich mercifull appearance all along vvith us, vve de<g ref="char:EOLhyphen"/>ſire the Lord may have the praiſe and glory, to vvhom onely it is due; and that all that hear of it may turn and ſay (as of a truth we have found) that <hi>among the gods there is none like unto him, neither are there any works like unto his works.</hi>
+            </p>
+            <pb n="5" facs="tcp:153933:4"/>
+            <p>The Names of the Commanders of the <hi>New Spain</hi> Fleet, and of the other Ships that were burnt in the <hi>Sancta Cruce</hi> Road on the 20<hi rend="sup">th</hi> of <hi>April,</hi> 1657.</p>
+            <list>
+               <item>
+                  <hi>Don Diego Diagues,</hi> General.</item>
+               <item>
+                  <hi>Don Joſepho Sentenno,</hi> Vice-Admiral.</item>
+               <item>
+                  <hi>Roque Gallindo,</hi> Rere-Admiral.</item>
+               <item>
+                  <hi>Gasper Goteras,</hi> in the great Campeachan.</item>
+               <item>
+                  <hi>Martin De Lazondo,</hi> in the little Campeachan.</item>
+            </list>
+            <p>Theſe Commanders with their Ships came from <hi>La vela Cruce</hi> in <hi>New Spain.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>John Quintero.</hi>
+               </item>
+               <item>
+                  <hi>Franciſco De Estoeta.</hi>
+               </item>
+               <item>
+                  <hi>Pedro Fegoroa.</hi>
+               </item>
+               <item>
+                  <hi>Don Franciſco Velaſques.</hi>
+               </item>
+               <item>
+                  <hi>Pedro Oreguel.</hi>
+               </item>
+            </list>
+            <p>Commanders of the Admiral and Vice-Admiral of <hi>Hundoras.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Franciſco Martines.</hi>
+               </item>
+               <item>
+                  <hi>Franciſco De Arana.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Pedro Sorrillio</hi> Commander of the Ship which came from <hi>Sancto Domingo.</hi>
+            </p>
+            <p>Theſe Commanders with their Ships were in <hi>Sancta Cruce</hi> before their Fleet arrived from the <hi>Indies.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Gregory Gomes.</hi>
+               </item>
+               <item>
+                  <hi>Franciſco Marcadel.</hi>
+               </item>
+               <item>
+                  <hi>Fernando Sohes.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Thurſday</hi> 28. <hi>May,</hi> 1657.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, that this Narrative be Printed and Publiſhed with the Order of the Houſe for the Day of Thankſgiving.</p>
+            <closer>
+               <signed>
+                  <hi>Henry Scobel,</hi> Clerk of the Parliament.</signed>
+            </closer>
+            <pb facs="tcp:153933:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
